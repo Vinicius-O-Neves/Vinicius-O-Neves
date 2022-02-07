@@ -9,7 +9,7 @@
   <img align="center" alt="Vini-Android" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg">
   <img align="center" alt="Vini-Kotlin" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg">
   <img align="center" alt="Vini-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Vini-yoda" src="https://i.picasion.com/pic91/7a13073a69597567eba45bd40ff8b08c.gif">
+  <img align="right" alt="Vini-yoda" src="https://github.com/Vinicius-O-Neves/Vinicius-O-Neves/blob/main/bloggif_620160d5c3ab3.gif">
 </div>
   
   ##
